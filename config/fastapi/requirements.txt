@@ -1,0 +1,4 @@
+fastapi
+mlflow==1.29.0
+torch
+uvicorn
